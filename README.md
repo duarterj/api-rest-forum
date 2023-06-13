@@ -23,9 +23,6 @@ Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usu�
 ### Obs: A API Rest do Fórum Alura não possuí interface gráfica. 
 <br>
 
-### :hammer_and_wrench: Resultados do projeto: 
-<br>
-
 ## 	:coffee: Criando um tópico: <br>
 ![CRIANDO](https://github.com/duarterj/api-rest-forum/assets/119144791/c97451f8-dbde-4cfa-8cf9-80559fb696f5)
 <br>
