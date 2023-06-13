@@ -19,9 +19,9 @@ Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usu�
 * IntelliJ <br>
 * MySQL <br>
 
-
 ## Todas as funcionalidades foram testadas utilizando o Insomnia: 
-### Obs: A API Rest do Fórum Alura não possuí interface gráfica.  
+### Obs: A API Rest do Fórum Alura não possuí interface gráfica. 
+<br>
 
 ### :hammer_and_wrench: Resultados do projeto: 
 <br>
