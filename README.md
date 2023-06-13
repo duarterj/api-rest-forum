@@ -23,7 +23,7 @@ Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usu�
 ## Todas as funcionalidades foram testadas utilizando o Insomnia: 
 ### Obs: A API Rest do Fórum Alura não possuí interface gráfica.  
 
-# Resultados do projeto: :smiley:
+### :hammer_and_wrench: Resultados do projeto: 
 <br>
 
 ## 	:coffee: Criando um tópico: <br>
